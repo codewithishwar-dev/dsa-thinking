@@ -16,4 +16,4 @@ That’s the real power of DSA.
 This repository focuses on **how to think**
 before writing code.
 
-— CodeWithIshwar
+- CodeWithIshwar
