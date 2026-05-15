@@ -1,4 +1,4 @@
-# DSA Thinking
+# DSA Thinking & Design
 
 If your DSA solution feels complex,
 you probably skipped one step:
